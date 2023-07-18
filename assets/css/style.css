@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  /* --heading-font: ; */
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Common */
+
+
+/* ========== Header ========== */
